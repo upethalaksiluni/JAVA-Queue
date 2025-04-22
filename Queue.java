@@ -47,7 +47,7 @@ public class Queue {
         Queue theQueue = new Queue(10);  // create a queue with max size 10
 
         theQueue.insert(10);  // insert given items
-        //theQueue. insert(20);
+        // theQueue. insert(20);
         //theQueue. insert(30);
 
 
